@@ -1,0 +1,5 @@
+# compiled binary (built with `go build`)
+/goParser
+
+# runtime data written by persistVerdict
+emails.json
